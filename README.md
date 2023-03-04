@@ -1,3 +1,7 @@
+1. Скачать данные из репозитория на свое устройство
+2. Зайти в папку из терминала, возможно, придется прописать "cd vk"
+3. Воспользоваться командой npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
